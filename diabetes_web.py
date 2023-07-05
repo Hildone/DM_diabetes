@@ -21,7 +21,7 @@ with col2:
     Insulin = st.number_input(" Insulin")
     BMI = st.number_input(" BMI (Body Mass Index)")
     DiabetesPedigreeFunction = st.number_input(" Diabetes Pedigree Function")
-    Age = st.number_input(" Age")
+    Age = st.number_input(" Ag")
 
 #olah array
 input_sample = [[Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age]]
